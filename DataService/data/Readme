@@ -1,0 +1,2 @@
+The DBLP dataset file should be put in this folder, so as the data-service of publications can access it.
+For experiment purposes, there is a subset of dblp dump.
