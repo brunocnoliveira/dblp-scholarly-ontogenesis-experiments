@@ -14,6 +14,6 @@ Such experiments encompass a data service that provides metadata about articles 
 
 - - - 
 
-<a name="footnote1"><sup>1</sup></a>DBLP: Jérôme David. http://dblp.uni-trier.de/xml/
+<a name="footnote1"><sup>1</sup></a>DBLP: http://dblp.uni-trier.de/xml/
 
 <a name="footnote2"><sup>2</sup></a>ScholarlyData: http://www.scholarlydata.org/dumps/
