@@ -4,9 +4,9 @@ Such experiments encompass a data service that provides metadata about articles 
 
 ## Repository Info
 * `Results` Contains all the [results](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/Results) of experiments in .csv format: 
-  * Processing Time: results regarding processing time spent by the main components of OntoGenesis.
-  * Resources Consumption: results of CPU and Memory usage.
-  * Thresholds Comparison (0.4, 0.6, 0.8): results concerning compliance measures.
+  * [Processing Time](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/Results/Processing%20Time): results regarding processing time spent by the main components of OntoGenesis.
+  * [Resources Consumption](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/Results/Resources%20Comsumption): results of CPU and Memory usage.
+  * [Thresholds Comparison](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/Results/Thresholds%20Comparison) (0.4, 0.6, 0.8): results concerning compliance measures.
 * `Data Service Source` Source codes for the [Data Service](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/DataService%20Source/publications-dataservice) desgined for experimental purposes. Its executable .jar file is in the target directory.
   * data contains the employed subset of DBLP.
 * `SourceRepo` Contains the URL of all other [source codes](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/blob/master/SourceRepo) available.
