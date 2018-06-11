@@ -8,7 +8,7 @@ Such experiments encompass a data service that provides metadata about articles 
   * [Resources Consumption](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/Results/Resources%20Comsumption): results of CPU and Memory usage.
   * [Thresholds Comparison](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/Results/Thresholds%20Comparison) (0.4, 0.6, 0.8): results concerning compliance measures.
 * `Data Service Source` Source codes for the [Data Service](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/DataService%20Source/publications-dataservice) desgined for experimental purposes. Its executable .jar file is in the target directory.
-  * data contains the employed subset of DBLP.
+  * [data](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/tree/master/DataService%20Source/data): the repository used by the data service that contains a subset of DBLP.
 * `SourceRepo` Contains the URL of all other [source codes](https://github.com/brunocnoliveira/dblp-scholarly-ontogenesis-experiments/blob/master/SourceRepo) available.
 
 
